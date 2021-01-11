@@ -2107,7 +2107,7 @@ img.zoom {
 }
 
 .footer {
-    background-image: url(/r.jpeg);
+    background-image: url(r.jpeg);
     padding-top: 55px;
 }
 
@@ -2336,7 +2336,7 @@ ul.contant_icon li img {
     grid-template-columns: auto auto auto auto;
     grid-gap: 30px;
     /* background-color: #2196F3; */
-    background-image: url(/mk.jpeg);
+    background-image: url(mk.jpeg);
     padding: 10px;
 }
 
@@ -2407,7 +2407,7 @@ p {
 }
 
 #kimkim {
-    background-image: url(/polo.jpg);
+    background-image: url(polo.jpg);
 }
 
 .cce {
