@@ -1962,7 +1962,7 @@ img.zoom {
 .testimonial {
     background: #0fc690;
     padding: 60px 0px;
-    background-image: url(/diamond.jpg);
+    background-image: url(../diamond.jpg);
 }
 
 .testimonial .titlepage {
