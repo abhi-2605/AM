@@ -2348,7 +2348,7 @@ ul.contant_icon li img {
 }
 
 .myThing {
-    background-image: url(/marble.jpg);
+    background-image: url(marble.jpg);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
